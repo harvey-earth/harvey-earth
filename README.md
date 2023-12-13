@@ -6,17 +6,17 @@ https://harvey.earth/
 - 😄 Pronouns: he/him
 
 ## Languages
-- Ruby
-- Bash
-- Python
-- Golang
+- Ruby 💎
+- Bash 🪨
+- Python 🐍
+- Go 🏃
 
 ## Tools
 - Configuration management
-  - Puppet
-  - Ansible
-  - Chef
-  - Terraform
+  - Puppet 🎎
+  - Ansible 🛰️
+  - Chef 🧑‍🍳
+  - Terraform 🌍
 - CI/CD
   - GitLab CI/CD
   - GitHub Actions
